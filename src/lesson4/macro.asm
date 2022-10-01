@@ -1,4 +1,4 @@
-%include "linux64.inc"
+%include "mac/linux64.inc"
 ; 引入宏
 section .data
     text db "hello world \n", 10,0
